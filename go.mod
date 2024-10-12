@@ -1,3 +1,3 @@
-module github.com/t-hg/pipe-sum
+module github.com/tobiashort/pipe-sum
 
 go 1.19
